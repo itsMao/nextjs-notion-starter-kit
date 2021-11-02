@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   github: 'itsMao',
-  linkedin: 'no',
+
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
